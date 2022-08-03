@@ -59,3 +59,15 @@ sysinfo.txt
 crashlytics-build.properties
 
 # Asset packs
+[Aa]ssets/Fantasy Skybox FREE/*
+[Aa]ssets/Jammo-Character/*
+[Aa]ssets/Plugins/*
+[Aa]ssets/PolygonStarter/*
+[Aa]ssets/Thirdparty/*
+
+# Asset packs metas
+[Aa]ssets/Fantasy Skybox FREE.meta
+[Aa]ssets/Jammo-Character.meta
+[Aa]ssets/Plugins.meta
+[Aa]ssets/PolygonStarter.meta
+[Aa]ssets/Thirdparty.meta
